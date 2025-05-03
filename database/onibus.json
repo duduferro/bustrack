@@ -1,0 +1,20 @@
+{
+  "onibus": [
+    {
+      "id": "1746287084141",
+      "placa": "ABC-1234",
+      "modelo": "Mercedes-Benz",
+      "ano_fabricacao": "2020",
+      "capacidade": "50"
+    }
+  ],
+  "motoristas": [
+    {
+      "id": "1746287087372",
+      "nome": "João Silva",
+      "data_nascimento": "1985-06-15",
+      "carteira_habilitacao": "123456789",
+      "onibus": null
+    }
+  ]
+}
